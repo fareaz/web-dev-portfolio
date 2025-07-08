@@ -136,3 +136,33 @@ main section{
     justify-content: space-around;
     gap: 24px;
 }
+/* resume */
+.resume-container{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 50px;
+}
+.experience-sub-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px;
+}
+.experience-description {
+    color: #757575;
+    font-size: 16px;
+}
+
+
+.section-title{
+    margin-bottom: 50px;
+}
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+}
+.experience-title
+{
+    font-size: 25px;
+    color: #474747;
+}
